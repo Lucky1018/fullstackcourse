@@ -13,8 +13,6 @@ const Content= (props) => {
            <Part partnumber={props.parts[0].name} exercisesnumber={props.parts[0].exercises}/>
            <Part partnumber={props.parts[1].name} exercisesnumber={props.parts[1].exercises}/>
            <Part partnumber={props.parts[2].name} exercisesnumber={props.parts[2].exercises}/>
-
-
        </div>
     )
 }
